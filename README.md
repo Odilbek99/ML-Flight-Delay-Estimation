@@ -1,5 +1,18 @@
 # ML_Assignment_1
 
+## Stucture
+   - Notebooks
+      - Preprocessing, Visualization, Outlier and Removal, Simple Linear Regression.ipynb
+      - Multiple Linear Regression (StandardScaler, PCA).ipynb
+      - Polynomial_Regression.ipynb
+      - Regularization.ipynb
+   - Task and Report
+      - ML_Assignment1_report.pdf
+      - Task.pdf   
+   - Readme.md
+
+## About .ipynb files
+
 An IPYNB file is a notebook document created by Jupyter Notebook, an interactive computational environment that helps scientists manipulate and analyze data using Python.
 
 
