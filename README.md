@@ -10,6 +10,8 @@
       - ML_Assignment1_report.pdf
       - Task.pdf   
    - Readme.md
+ 
+*Remark:* To run these files the dataset(.csv) is needed. 
 
 ## About .ipynb files
 
